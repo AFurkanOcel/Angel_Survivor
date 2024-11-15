@@ -1,0 +1,16 @@
+<dependencies>
+  <compile
+      roots="D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release">
+    <dependency
+        name="D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release,__local_aars__:D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar">
+    <dependency
+        name="D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"/>
+  </package>
+</dependencies>
