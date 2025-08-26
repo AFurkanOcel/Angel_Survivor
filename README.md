@@ -68,15 +68,29 @@ Welcome to **Angel Survivor**, a thrilling survival game where you play as an an
 
 ## 🖼️ Images
 
+<img width="1920" height="859" alt="angelmenu" src="https://github.com/user-attachments/assets/88175cd2-b1d7-44b8-a272-53314825783d" />
+
+<img width="1920" height="858" alt="angel1or2p" src="https://github.com/user-attachments/assets/4f1f5c44-68d9-4f97-a3c3-0e7357991223" />
+
+buraya tel den çektiğin oyunun 2 playerlı ve tek playerlı fotolarını sırasıyla ekle
+
+<img width="1920" height="857" alt="angelsettings" src="https://github.com/user-attachments/assets/beb4527d-2403-442c-a31b-1393be683985" />
+
 ---
 
 ### **Assets**
-<!-- Leave your assets section as-is -->
-
----
+- 3D Character Models From: Created by me 😎
+- 2D Background Models From: [https://assetstore.unity.com/packages/2d/textures-materials/sky/free-hdr-skyboxes-pack-175525](https://assetstore.unity.com/packages/2d/textures-materials/sky/free-hdr-skyboxes-pack-175525)
+- 2D Icons From: [https://assetstore.unity.com/packages/2d/gui/icons/jelly-icons-99749](https://assetstore.unity.com/packages/2d/gui/icons/jelly-icons-99749)  
+- Meteor Texture From: [https://pikbest.com/backgrounds/volcanic-abstract-rock-texture-a-3d-rendered-cooled-lava-background_9622899.html](https://pikbest.com/backgrounds/volcanic-abstract-rock-texture-a-3d-rendered-cooled-lava-background_9622899.html)
+- Wall and Floor Textures From: [https://www.textures4photoshop.com/tex/stone-and-rock/lava-texture-seamless-for-games.aspx](https://www.textures4photoshop.com/tex/stone-and-rock/lava-texture-seamless-for-games.aspx)
 
 ### **Audio**
-<!-- Leave your audio section as-is -->
+- Sound Effects: [https://assetstore.unity.com/packages/audio/sound-fx/rpg-essentials-sound-effects-free-227708](https://assetstore.unity.com/packages/audio/sound-fx/rpg-essentials-sound-effects-free-227708)  
+- Game Music From: shazamla arat ve gir linki
+
+### **Voice Actors**
+- **Angel**: A. Furkan Öcel  
 
 ---
 
