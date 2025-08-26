@@ -42,7 +42,7 @@ Welcome to **Angel Survivor**, a thrilling survival game where you play as an an
   - Then **Angel Survivor** title appears and fades out  
 - **Main Menu:**  
   - Devil chasing your angel in the background  
-  - Top-right: angel avatar with “PLAYER” and timer underneath  
+  - Top-right: angel avatar profile 
   - Bottom-right: BaBaGaMeS logo (click to view credits)
 
 <img width="1920" alt="angelmenu" src="https://github.com/user-attachments/assets/55545fc1-2da0-4446-acf1-8be372fb2f45" /> <br>
