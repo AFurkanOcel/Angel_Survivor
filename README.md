@@ -92,6 +92,17 @@ buraya tel den çektiğin oyunun 2 playerlı ve tek playerlı fotolarını sıra
 ### **Voice Actors**
 - **Angel**: A. Furkan Öcel  
 
+### **Translators**
+All translations done by A. Furkan Öcel:  
+- Turkish 🇹🇷  
+- English 🇬🇧  
+- French 🇫🇷  
+- German 🇩🇪  
+- Russian 🇷🇺  
+- Italian 🇮🇹  
+- Spanish 🇪🇸  
+- Portuguese 🇵🇹  
+
 ---
 
 ## 📥 Installation and Play
