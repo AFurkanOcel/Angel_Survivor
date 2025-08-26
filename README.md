@@ -1,4 +1,4 @@
-# 😇 😈 Angel Survivor
+# 😇 Angel Survivor
 
 **Platform:** Android  
 **Engine:** Unity 3D  
