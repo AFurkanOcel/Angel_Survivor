@@ -44,17 +44,17 @@ Welcome to **Angel Survivor**, a thrilling survival game where you play as an an
   - Devil chasing your angel in the background  
   - Top-right: angel avatar with “PLAYER” and timer underneath  
   - Bottom-right: BaBaGaMeS logo (click to view credits)
-<img width="1920" height="859" alt="angelmenu" src="https://github.com/user-attachments/assets/55545fc1-2da0-4446-acf1-8be372fb2f45" />
+<img width="600" alt="angelmenu" src="https://github.com/user-attachments/assets/55545fc1-2da0-4446-acf1-8be372fb2f45" />
 
 - **Menu Buttons:**
   - **Play:** Opens mode selection (1 player or 2 players)
-<img width="1920" height="858" alt="angel1or2p" src="https://github.com/user-attachments/assets/9c3f24bc-2632-440b-a7e6-762148a16a02" />
+<img width="600" alt="angel1or2p" src="https://github.com/user-attachments/assets/9c3f24bc-2632-440b-a7e6-762148a16a02" />
 
   - **Statistics:** Shows record time, total games, and total deaths (stored in the database)
-<img width="1919" height="859" alt="statistics" src="https://github.com/user-attachments/assets/dc3f9445-7c24-4192-8f69-0bb0687b31a3" />
+<img width="600" alt="statistics" src="https://github.com/user-attachments/assets/dc3f9445-7c24-4192-8f69-0bb0687b31a3" />
 
   - **Settings:** Adjust game music, sound effects, and choose language (8 languages supported via flags: Turkish, English, French, German, Russian, Italian, Spanish, Portuguese; default is English)
-<img width="1920" height="857" alt="angelsettings" src="https://github.com/user-attachments/assets/5c102bee-d34b-4bde-9373-e48c2276cfcd" />
+<img width="600" alt="angelsettings" src="https://github.com/user-attachments/assets/5c102bee-d34b-4bde-9373-e48c2276cfcd" />
 
   - **Exit:** Close the game  
 - **Credits Page:**  
