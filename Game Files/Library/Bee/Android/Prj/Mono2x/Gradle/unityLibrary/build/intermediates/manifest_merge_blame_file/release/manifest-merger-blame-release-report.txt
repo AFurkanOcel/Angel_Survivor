@@ -5,119 +5,119 @@
 5
 6    <uses-sdk
 7        android:minSdkVersion="22"
-7-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+7-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
 8        android:targetSdkVersion="32" />
-8-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+8-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
 9
 10    <uses-feature android:glEsVersion="0x00030000" />
-10-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-52
-10-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:17-49
+10-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-52
+10-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:17-49
 11    <uses-feature
-11-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-91
+11-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-91
 12        android:name="android.hardware.vulkan.version"
-12-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:17-63
+12-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:17-63
 13        android:required="false" />
-13-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:64-88
+13-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:64-88
 14    <uses-feature
-14-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-88
+14-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-88
 15        android:name="android.hardware.touchscreen"
-15-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-60
+15-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-60
 16        android:required="false" />
-16-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:61-85
+16-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:61-85
 17    <uses-feature
-17-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-99
+17-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-99
 18        android:name="android.hardware.touchscreen.multitouch"
-18-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-71
+18-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-71
 19        android:required="false" />
-19-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:72-96
+19-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:72-96
 20    <uses-feature
-20-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-108
+20-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-108
 21        android:name="android.hardware.touchscreen.multitouch.distinct"
-21-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-80
+21-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-80
 22        android:required="false" />
-22-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:81-105
+22-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:81-105
 23
 24    <application android:extractNativeLibs="true" >
-24-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-23:17
-24-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:16-48
+24-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-23:17
+24-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:16-48
 25        <meta-data
-25-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:5-69
+25-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:5-69
 26            android:name="unity.splash-mode"
-26-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:16-48
+26-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:16-48
 27            android:value="0" />
-27-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:49-66
+27-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:49-66
 28        <meta-data
-28-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:5-74
+28-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:5-74
 29            android:name="unity.splash-enable"
-29-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-50
+29-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-50
 30            android:value="True" />
-30-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:51-71
+30-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:51-71
 31        <meta-data
-31-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-78
+31-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-78
 32            android:name="unity.launch-fullscreen"
-32-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-54
+32-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-54
 33            android:value="True" />
-33-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:55-75
+33-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:55-75
 34        <meta-data
-34-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-84
+34-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-84
 35            android:name="unity.allow-resizable-window"
-35-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-59
+35-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-59
 36            android:value="False" />
-36-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:60-81
+36-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:60-81
 37        <meta-data
-37-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-81
+37-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-81
 38            android:name="notch.config"
-38-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-43
+38-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-43
 39            android:value="portrait|landscape" />
-39-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:44-78
+39-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:44-78
 40        <meta-data
-40-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-84
+40-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-84
 41            android:name="unity.auto-report-fully-drawn"
-41-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-60
+41-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-60
 42            android:value="true" />
-42-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:61-81
+42-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:61-81
 43
 44        <activity
-44-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-22:16
+44-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-22:16
 45            android:name="com.unity3d.player.UnityPlayerActivity"
-45-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:15-68
+45-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:15-68
 46            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
-46-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:185-366
+46-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:185-366
 47            android:exported="true"
-47-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:438-461
+47-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:438-461
 48            android:hardwareAccelerated="false"
-48-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:402-437
+48-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:402-437
 49            android:launchMode="singleTask"
-49-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:153-184
+49-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:153-184
 50            android:resizeableActivity="false"
-50-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:367-401
+50-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:367-401
 51            android:screenOrientation="userLandscape"
-51-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:111-152
+51-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:111-152
 52            android:theme="@style/UnityThemeSelector" >
-52-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:69-110
+52-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:69-110
 53            <intent-filter>
-53-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:7-19:23
+53-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:7-19:23
 54                <category android:name="android.intent.category.LAUNCHER" />
-54-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:9-69
-54-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:19-66
+54-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:9-69
+54-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:19-66
 55
 56                <action android:name="android.intent.action.MAIN" />
-56-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:9-61
-56-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:17-58
+56-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:9-61
+56-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:17-58
 57            </intent-filter>
 58
 59            <meta-data
-59-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:7-82
+59-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:7-82
 60                android:name="unityplayer.UnityActivity"
-60-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:18-58
+60-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:18-58
 61                android:value="true" />
-61-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:59-79
+61-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:59-79
 62            <meta-data
-62-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:7-70
+62-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:7-70
 63                android:name="notch_support"
-63-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:18-46
+63-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:18-46
 64                android:value="true" />
-64-->D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:47-67
+64-->D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:47-67
 65        </activity>
 66    </application>
 67

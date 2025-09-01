@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="D:\mygames\Dosyalar\Angel Survivor\Library\Bee\Android\Prj\Mono2x\Gradle\launcher"
+    dir="D:\github\AFurkanOcel\Angel_Survivor\Game Files\Library\Bee\Android\Prj\Mono2x\Gradle\launcher"
     name=":launcher"
     type="APP"
     maven="Gradle:launcher:"

@@ -37,8 +37,8 @@ public class NewBehaviourScript : MonoBehaviour
         Invoke("callfireball12", 420f);
         Invoke("callfireball13", 480f);
         Invoke("callfireball14", 540f);
-        Invoke("particalsystems", 296);
-        Invoke("particalsystems2", 595f);
+        Invoke("particalsystems", 96f);
+        Invoke("particalsystems2",196f);
     }
 
     public void OnCollisionEnter(Collision collision)

@@ -37,8 +37,10 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -313,7 +315,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 21814}
     - Class: 114
-      Script: {instanceID: 27652}
+      Script: {instanceID: 25060}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -2172,4 +2174,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/settings.unity
   - Assets/Scenes/fromfurkan.unity
   - Assets/Scenes/angelsurvivor.unity
-  playerPath: C:/Users/Furkan/Desktop/Angel Survivor.apk
+  playerPath: D:/github/AFurkanOcel/Angel_Survivor/Game/Angel Survivor.apk

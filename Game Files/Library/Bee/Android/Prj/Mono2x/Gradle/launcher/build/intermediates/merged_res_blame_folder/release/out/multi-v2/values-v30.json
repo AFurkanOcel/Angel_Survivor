@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\mygames\\Dosyalar\\Angel Survivor\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v30\\values-v30.xml",
+            "outputFile": "D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v30\\values-v30.xml",
             "map": [
                 {
-                    "source": "D:\\mygames\\Dosyalar\\Angel Survivor\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values-v30\\values-v30.xml",
+                    "source": "D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values-v30\\values-v30.xml",
                     "from": {
                         "startLines": "2,3,4,5,6",
                         "startColumns": "4,4,4,4,4",

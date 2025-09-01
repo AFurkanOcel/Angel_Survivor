@@ -104,9 +104,17 @@ public class playermove : MonoBehaviour
         }
         else
         {
-            if(angeltransform.position.x > 9.5 || angeltransform.position.x < -9.5 || angeltransform.position.z > 3.6)
+            if(angeltransform.position.x > 9.5 || angeltransform.position.x < -9.5 || angeltransform.position.z > 3.6 || angeltransform.position.z < -3.6)
             {
-                if(time > 300)
+                if(time > 100)
+                {
+                    death.Play();
+                    angelisdeath = true;
+                }
+            }
+            if (angeltransform.position.x < 1 && angeltransform.position.x > -1)
+            {
+                if (time > 200)
                 {
                     death.Play();
                     angelisdeath = true;
