@@ -68,7 +68,18 @@ Welcome to **Angel Survivor**, a thrilling survival game where you play as an an
 - **C#**  
 - **Blender** (for angel and devil models)  
 - **Unity Animator**  
-- **Android Platform Support**  
+- **Android Platform Support**
+
+---
+
+## 🖼️ Images
+
+**1P**  
+![1p](https://github.com/user-attachments/assets/e75df1d7-8cee-4f4c-b342-d1c7db309087)
+
+***2P***  
+![2p](https://github.com/user-attachments/assets/4fcdb9db-91ed-4c71-a0f2-0308c6c9d422)
+
 
 ---
 
