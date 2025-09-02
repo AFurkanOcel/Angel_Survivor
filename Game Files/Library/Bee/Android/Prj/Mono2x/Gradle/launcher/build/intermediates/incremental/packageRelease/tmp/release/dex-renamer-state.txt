@@ -1,4 +1,4 @@
-#Mon Sep 01 17:02:28 TRT 2025
+#Tue Sep 02 13:58:00 TRT 2025
 base.0=D\:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

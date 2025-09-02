@@ -27,18 +27,18 @@ public class NewBehaviourScript : MonoBehaviour
     public void Start()
     {
         Invoke("callfireball4", 30f);
-        Invoke("callfireball5", 60f);
-        Invoke("callfireball6", 90f);
-        Invoke("callfireball7", 120f);
-        Invoke("callfireball8", 150f);
-        Invoke("callfireball9", 180f);
-        Invoke("callfireball10", 240f);
-        Invoke("callfireball11", 360f);
-        Invoke("callfireball12", 420f);
-        Invoke("callfireball13", 480f);
-        Invoke("callfireball14", 540f);
-        Invoke("particalsystems", 96f);
-        Invoke("particalsystems2",196f);
+        Invoke("particalsystems", 56f);
+        Invoke("callfireball5", 90f);
+        Invoke("particalsystems2", 116f);
+        Invoke("callfireball6", 150f);
+        Invoke("callfireball7", 180f);
+        Invoke("callfireball8", 240f);
+        Invoke("callfireball9", 300f);
+        Invoke("callfireball10", 360f);
+        Invoke("callfireball11", 420f);
+        Invoke("callfireball12", 480f);
+        Invoke("callfireball13", 540f);
+        Invoke("callfireball14", 600f);
     }
 
     public void OnCollisionEnter(Collision collision)

@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C67E973C-2637-86E3-D151-FCFE44CD1CFE}|Assembly-CSharp.csproj|d:\\github\\afurkanocel\\angel_survivor\\game files\\assets\\codes\\angel2pcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67E973C-2637-86E3-D151-FCFE44CD1CFE}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\angel2pcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67E973C-2637-86E3-D151-FCFE44CD1CFE}|Assembly-CSharp.csproj|D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\assets\\codes\\angel1pcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67E973C-2637-86E3-D151-FCFE44CD1CFE}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\angel1pcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67E973C-2637-86E3-D151-FCFE44CD1CFE}|Assembly-CSharp.csproj|D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\assets\\codes\\planefireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67E973C-2637-86E3-D151-FCFE44CD1CFE}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\planefireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67E973C-2637-86E3-D151-FCFE44CD1CFE}|Assembly-CSharp.csproj|D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\assets\\codes\\angelsurvivor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67E973C-2637-86E3-D151-FCFE44CD1CFE}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\angelsurvivor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67E973C-2637-86E3-D151-FCFE44CD1CFE}|Assembly-CSharp.csproj|D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\assets\\codes\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67E973C-2637-86E3-D151-FCFE44CD1CFE}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67E973C-2637-86E3-D151-FCFE44CD1CFE}|Assembly-CSharp.csproj|D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\assets\\codes\\dil2pgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67E973C-2637-86E3-D151-FCFE44CD1CFE}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\dil2pgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67E973C-2637-86E3-D151-FCFE44CD1CFE}|Assembly-CSharp.csproj|D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\assets\\codes\\totaldeaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67E973C-2637-86E3-D151-FCFE44CD1CFE}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\totaldeaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "angel2Pcontrol.cs",
+              "DocumentMoniker": "D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\Assets\\codes\\angel2Pcontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\codes\\angel2Pcontrol.cs",
+              "ToolTip": "D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\Assets\\codes\\angel2Pcontrol.cs",
+              "RelativeToolTip": "Assets\\codes\\angel2Pcontrol.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAtwG0AAAA6AQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T13:05:21.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dil2Pgame.cs",
+              "DocumentMoniker": "D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\Assets\\codes\\dil2Pgame.cs",
+              "RelativeDocumentMoniker": "Assets\\codes\\dil2Pgame.cs",
+              "ToolTip": "D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\Assets\\codes\\dil2Pgame.cs",
+              "RelativeToolTip": "Assets\\codes\\dil2Pgame.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAtwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T13:04:48.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "totaldeaths.cs",
+              "DocumentMoniker": "D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\Assets\\codes\\totaldeaths.cs",
+              "RelativeDocumentMoniker": "Assets\\codes\\totaldeaths.cs",
+              "ToolTip": "D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\Assets\\codes\\totaldeaths.cs",
+              "RelativeToolTip": "Assets\\codes\\totaldeaths.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T13:04:40.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "time.cs",
+              "DocumentMoniker": "D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\Assets\\codes\\time.cs",
+              "RelativeDocumentMoniker": "Assets\\codes\\time.cs",
+              "ToolTip": "D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\Assets\\codes\\time.cs",
+              "RelativeToolTip": "Assets\\codes\\time.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T13:04:31.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "angelsurvivor.cs",
+              "DocumentMoniker": "D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\Assets\\codes\\angelsurvivor.cs",
+              "RelativeDocumentMoniker": "Assets\\codes\\angelsurvivor.cs",
+              "ToolTip": "D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\Assets\\codes\\angelsurvivor.cs",
+              "RelativeToolTip": "Assets\\codes\\angelsurvivor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T13:04:02.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "planefireball.cs",
+              "DocumentMoniker": "D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\Assets\\codes\\planefireball.cs",
+              "RelativeDocumentMoniker": "Assets\\codes\\planefireball.cs",
+              "ToolTip": "D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\Assets\\codes\\planefireball.cs",
+              "RelativeToolTip": "Assets\\codes\\planefireball.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAtwCgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T13:02:46.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "angel1Pcontrol.cs",
+              "DocumentMoniker": "D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\Assets\\codes\\angel1Pcontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\codes\\angel1Pcontrol.cs",
+              "ToolTip": "D:\\github\\AFurkanOcel\\Angel_Survivor\\Game Files\\Assets\\codes\\angel1Pcontrol.cs",
+              "RelativeToolTip": "Assets\\codes\\angel1Pcontrol.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAIA9wGoAAAA5AQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T13:02:20.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -101,30 +101,38 @@ public class angel2Pcontrol : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (angelisdeath == true)
+        if (angelisdeath)
         {
-            angelrigidbody.velocity = new Vector3(0, 0, 0);
+            angelrigidbody.velocity = Vector3.zero;
         }
         else
         {
-            if (angeltransform.position.x > 9.5 || angeltransform.position.x < -9.5 || angeltransform.position.z > 3.6 || angeltransform.position.z < -3.6)
-            {
-                if (time > 100)
-                {
-                    death.Play();
-                    angelisdeath = true;
-                }
-            }
-            if (angeltransform.position.x < 1 && angeltransform.position.x > -1)
-            {
-                if (time > 200)
-                {
-                    death.Play();
-                    angelisdeath = true;
-                }
-            }
+            CheckDeathFromBoundaries();
             movement();
             rotation();
+        }
+    }
+
+    private void CheckDeathFromBoundaries()
+    {
+        if (((angeltransform.position.x > 9.5 || angeltransform.position.x < -9.5
+              || angeltransform.position.z > 3.6 || angeltransform.position.z < -3.6) && time > 60)
+            || ((angeltransform.position.x > 9.5 || angeltransform.position.x < -9.5
+              || angeltransform.position.z > 3.6 || angeltransform.position.z < -3.6
+              || (angeltransform.position.x < 1 && angeltransform.position.x > -1)) && time > 120))
+        {
+            if (!angelisdeath)
+            {
+                death.Play();
+                angelisdeath = true;
+
+                if (angel1boxcollider.enabled == true)
+                    whoiswin = 1;
+                else if (angel2boxcollider.enabled == true)
+                    whoiswin = 2;
+
+                Invoke("angelsaredeath", 0.1f);
+            }
         }
     }
 
