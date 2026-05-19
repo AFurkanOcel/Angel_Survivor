@@ -361,7 +361,7 @@ GitHub: https://github.com/AFurkanOcel
 
 ### Voice Acting
 
-- Angel voice: **A. Furkan Ocel**
+- Angel voice: **A. Furkan ÖCEL**
 
 ---
 
