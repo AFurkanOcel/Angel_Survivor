@@ -359,9 +359,7 @@ Generated Unity and IDE files are intentionally ignored:
 
 ### Game Development
 
-**A. Furkan Ocel**
-
-GitHub: https://github.com/AFurkanOcel
+**A. Furkan ÖCEL**
 
 ### Voice Acting
 
