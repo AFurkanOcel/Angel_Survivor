@@ -33,7 +33,7 @@ The core loop is simple:
 
 The game includes both a single-player survival mode and a local two-player mode where two angels share the same device and compete to survive longer.
 
-<img width="1920" alt="angelmenu" src="https://github.com/user-attachments/assets/55545fc1-2da0-4446-acf1-8be372fb2f45" />
+<img width="1920" alt="angelmenu" src="Assets/screenshots/angelmenu.png" />
 
 ---
 
@@ -75,6 +75,10 @@ Angel_Survivor/
 |   |   |-- Texture/
 |   |   `-- sky/
 |   |-- musics/
+|   |-- screenshots/
+|   |   |-- angelmenu.png
+|   |   |-- single-player.png
+|   |   `-- two-player.png
 |   |-- Scenes/
 |   |   |-- angelsurvivor.unity
 |   |   |-- babagame.unity
@@ -231,11 +235,11 @@ In two-player mode, one player can be eliminated while the other keeps playing. 
 
 ### Single Player
 
-![1p](https://github.com/user-attachments/assets/e75df1d7-8cee-4f4c-b342-d1c7db309087)
+![1p](Assets/screenshots/single-player.png)
 
 ### Two Player
 
-![2p](https://github.com/user-attachments/assets/4fcdb9db-91ed-4c71-a0f2-0308c6c9d422)
+![2p](Assets/screenshots/two-player.png)
 
 ---
 
