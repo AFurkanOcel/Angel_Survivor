@@ -301,7 +301,7 @@ Angel Survivor includes language support for:
 - Spanish
 - Portuguese
 
-All translations were prepared by **A. Furkan Ocel**.
+All translations were prepared by **A. Furkan ÖCEL**.
 
 ---
 
@@ -360,10 +360,6 @@ Generated Unity and IDE files are intentionally ignored:
 ### Game Development
 
 **A. Furkan ÖCEL**
-
-### Voice Acting
-
-- Angel voice: **A. Furkan ÖCEL**
 
 ---
 
