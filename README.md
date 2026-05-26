@@ -76,9 +76,6 @@ Angel_Survivor/
 |   |   `-- sky/
 |   |-- musics/
 |   |-- screenshots/
-|   |   |-- angelmenu.png
-|   |   |-- single-player.png
-|   |   `-- two-player.png
 |   |-- Scenes/
 |   |   |-- angelsurvivor.unity
 |   |   |-- babagame.unity
